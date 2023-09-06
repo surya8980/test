@@ -1,0 +1,45 @@
+table,th,td{
+    border: 1px solid black;
+    border-radius: 10px;
+}
+ 
+div.square1{
+    border: 3px solid rgb(127, 203, 13);
+    border-radius: 13px;
+    height: 45px; 
+    width: 70px; 
+}
+div.rect{
+    border: 3px solid rgb(127, 203, 13);
+    height: 45px; 
+    width: 70px; 
+}
+div.x{
+    border: 3px solid rgb(127, 203, 13);
+    height: 50px; 
+    border-radius: 5px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 20px;
+    width: 70px; 
+}
+div.circle{
+    height: 50px;
+    width: 75px;
+    border: 3px solid rgb(127, 203, 13);            
+    border-radius: 50% 
+}
+div{
+    margin-top: 5px;
+    margin-bottom:10px;
+    margin-right: 10px;
+}
+.main {
+    display: flex;
+    margin-left: 150px;
+}
+div.square{
+    border: 3px solid rgb(127, 203, 13);
+    border-radius: 6px;
+    height: 45px; 
+    width: 70px;
+}
